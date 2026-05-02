@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# HuggingFace cache (large — downloaded on first run)
+~/.cache/huggingface/
+
+# Node / VS Code Extension
+node_modules/
+out/
+*.vsix
+.vscode-test/
+
+# OS
+.DS_Store
+Thumbs.db
